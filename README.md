@@ -39,11 +39,11 @@ Update the MongoDB connection details in the database configuration file i.e. da
 Access the API endpoints using a tool like Postman or your preferred HTTP client.
 
 ## Endpoints
-**POST /user:** Register a new user.
-**GET /user/:id:** Retrieve a user by ID.
-**PUT /user/:id:** Update user information.
-**DELETE /user/:id:** Delete or disable a user.
-**GET /user:** List all users with filtering options.
+1. **POST /user:** Register a new user.
+2. **GET /user/:id:** Retrieve a user by ID.
+3. **PUT /user/:id:** Update user information.
+4. **DELETE /user/:id:** Delete or disable a user.
+5. **GET /user:** List all users with filtering options.
 
 ## Postman Collection
 Please check https://www.postman.com/solar-crescent-599240/workspace/gin-monogdb-golang/collection/15538441-4e14dd28-182d-433d-9ce7-1cb629e503c2?action=share&creator=15538441
